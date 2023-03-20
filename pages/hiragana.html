@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kana Quiz</title>
+    <link rel="stylesheet" href="../css/hiragana.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Kana Quiz</h1>
+      <div id="score">Score: 0</div>
+      <div id="tracker">#1/15</div>
+    </header>
+    <main>
+      <form>
+        <h2 class="question">Question 1:</h2>
+        <p class="kana">あ</p>
+        <input type="text" id="answer" />
+        <button class="btn start" type="start" id="start">Start</button>
+        <button class="btn submit hidden" type="submit" id="submit">
+          Submit
+        </button>
+        <button class="btn incorrect hidden" type="incorrect" id="incorrect">
+          Study Incorrect
+        </button>
+        <button class="btn restart hidden" type="restart" id="restart">
+          Restart
+        </button>
+        <button class="btn choose hidden" type="choose" id="choose">
+          Choose Character
+        </button>
+        <button class="btn characterSelector vowels" type="vowels" id="vowels">
+          あ - Series
+        </button>
+        <button class="btn characterSelector k" type="k" id="k">
+          か - Series
+        </button>
+        <button class="btn characterSelector s" type="s" id="s">
+          さ - Series
+        </button>
+        <button class="btn characterSelector t" type="t" id="t">
+          た - Series
+        </button>
+        <button class="btn characterSelector n" type="n" id="n">
+          な - Series
+        </button>
+        <button class="btn characterSelector h" type="h" id="h">
+          は - Series
+        </button>
+        <button class="btn characterSelector m" type="m" id="m">
+          ま - Series
+        </button>
+        <button class="btn characterSelector y" type="y" id="y">
+          や - Series
+        </button>
+        <button class="btn characterSelector r" type="r" id="r">
+          ら - Series
+        </button>
+        <button class="btn characterSelector w" type="w" id="w">
+          わ - Series
+        </button>
+        <p class="wrong">Wrong:</p>
+      </form>
+    </main>
+    <script src="../scripts/hiragana.js"></script>
+  </body>
+</html>

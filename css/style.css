@@ -1,0 +1,65 @@
+/* Set the background color and font family */
+body {
+  background-color: #0077aa;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+}
+
+/* Center the content on the page */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style the heading */
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 36px;
+}
+
+/* Style the paragraph */
+.kana {
+  font-size: 100px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.wrong {
+  font-size: 30px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Style the list of quizzes */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #0077aa;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+}
+
+a:hover {
+  background-color: #cccccc;
+  color: #ffffff;
+}
+
+.hidden {
+  display: none;
+}
