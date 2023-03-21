@@ -1,0 +1,307 @@
+/* Set the background color and font family */
+body {
+  background-color: #0077aa;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+}
+
+/* Center the content on the page */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style the heading */
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 36px;
+}
+
+/* Style the paragraph */
+.kana {
+  font-size: 100px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.start {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 50%;
+  right: 50%;
+}
+
+.start:hover {
+  background-color: white;
+  color: #0077aa;
+}
+
+.vowels {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 10px;
+  right: 120px;
+}
+
+.vowels.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.k {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 120px;
+  right: 120px;
+}
+
+.k.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.s {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 230px;
+  right: 120px;
+}
+
+.s.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.t {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 340px;
+  right: 120px;
+}
+
+.t.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.n {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 450px;
+  right: 120px;
+}
+
+.n.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.h {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 560px;
+  right: 120px;
+}
+
+.h.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.m {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 120px;
+  right: 10px;
+}
+
+.m.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.y {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 230px;
+  right: 10px;
+}
+
+.y.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.r {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 340px;
+  right: 10px;
+}
+
+.r.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.w {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  position: fixed;
+  top: 450px;
+  right: 10px;
+}
+
+.w.clicked {
+  background-color: white;
+  color: #0077aa;
+}
+
+.wrong {
+  font-size: 30px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Style the list of quizzes */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #0077aa;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+}
+
+a:hover {
+  background-color: #cccccc;
+  color: #ffffff;
+}
+
+.hidden {
+  display: none;
+}
