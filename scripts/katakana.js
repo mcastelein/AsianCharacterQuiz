@@ -161,8 +161,12 @@ function wrongAnswer() {
 
   // Add wrong answer to list
   incorrectAnswers.push(questions[questionNum]);
-  incorrectDisplayAnswers.push(questions[questionNum][0]);
+  incorrectDisplayAnswers.push(
+    `(${questions[questionNum][0]},${questions[questionNum][1]})`
+  );
   displayIncorrect(incorrectDisplayAnswers);
+
+  // Display Correct Answer
 
   // Check if quiz is finished
   if (questionNum === questions.length - 1) {
