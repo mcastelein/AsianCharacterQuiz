@@ -284,7 +284,7 @@ btnSubmit.addEventListener("click", function (e) {
   e.preventDefault();
 
   if (myTextbox.value != "") {
-    let submission = myTextbox.value;
+    let submission = myTextbox.value.toLowerCase();
     myTextbox.value = "";
     answers[0] = answers[1];
 
@@ -302,7 +302,7 @@ input.addEventListener("keyup", function (event) {
   // Check if the key pressed is 'Enter'
   if (event.key === "Enter") {
     if (myTextbox.value != "") {
-      let submission = myTextbox.value;
+      let submission = myTextbox.value.toLowerCase();
       myTextbox.value = "";
       answers[0] = answers[1];
 
