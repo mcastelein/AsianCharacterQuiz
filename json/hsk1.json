@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 1,
+    "english": "possessive particle",
+    "character": "的",
+    "reading": ["de", "de5", "de"],
+    "category": "Group 1"
+  },
+  {
+    "id": 2,
+    "english": "one",
+    "character": "一",
+    "reading": ["yī", "yi1", "yi"],
+    "category": "Group 1"
+  },
+  {
+    "id": 3,
+    "english": "be",
+    "character": "是",
+    "reading": ["shì", "shi4", "shi"],
+    "category": "Group 1"
+  },
+  {
+    "id": 4,
+    "english": "not",
+    "character": "不",
+    "reading": ["bù", "bu4", "bu"],
+    "category": "Group 1"
+  },
+  {
+    "id": 5,
+    "english": "finish",
+    "character": "了",
+    "reading": ["le", "le5", "le"],
+    "category": "Group 1"
+  },
+  {
+    "id": 6,
+    "english": "at",
+    "character": "在",
+    "reading": ["zài", "zai4", "zai"],
+    "category": "Group 1"
+  },
+  {
+    "id": 7,
+    "english": "man",
+    "character": "人",
+    "reading": ["rén", "ren2", "ren"],
+    "category": "Group 1"
+  },
+  {
+    "id": 8,
+    "english": "have",
+    "character": "有",
+    "reading": ["yǒu", "you3", "you"],
+    "category": "Group 1"
+  },
+  {
+    "id": 9,
+    "english": "i",
+    "character": "我",
+    "reading": ["wǒ", "wo3", "wo"],
+    "category": "Group 1"
+  },
+  {
+    "id": 10,
+    "english": "he",
+    "character": "他",
+    "reading": ["tā", "ta1", "ta"],
+    "category": "Group 1"
+  },
+  {
+    "id": 11,
+    "english": "this",
+    "character": "这",
+    "reading": ["zhè", "zhe4", "zhe"],
+    "category": "Group 2"
+  },
+  {
+    "id": 12,
+    "english": "piece",
+    "character": "个",
+    "reading": ["gè", "ge4", "ge"],
+    "category": "Group 2"
+  },
+  {
+    "id": 13,
+    "english": "pluralizer",
+    "character": "们",
+    "reading": ["men", "men2", "men"],
+    "category": "Group 2"
+  },
+  {
+    "id": 14,
+    "english": "middle",
+    "character": "中",
+    "reading": ["zhōng", "zhong1", "zhong"],
+    "category": "Group 2"
+  },
+  {
+    "id": 15,
+    "english": "come",
+    "character": "来",
+    "reading": ["lái", "lai2", "lai"],
+    "category": "Group 2"
+  },
+  {
+    "id": 16,
+    "english": "above",
+    "character": "上",
+    "reading": ["shàng", "shang4", "shang"],
+    "category": "Group 2"
+  },
+  {
+    "id": 17,
+    "english": "big",
+    "character": "大",
+    "reading": ["dà", "da4", "da"],
+    "category": "Group 2"
+  },
+  {
+    "id": 18,
+    "english": "and",
+    "character": "和",
+    "reading": ["hé", "he2", "he"],
+    "category": "Group 2"
+  },
+  {
+    "id": 19,
+    "english": "country",
+    "character": "国",
+    "reading": ["guó", "guo2", "guo"],
+    "category": "Group 2"
+  },
+  {
+    "id": 20,
+    "english": "speak",
+    "character": "说",
+    "reading": ["shuō", "shuo1", "shuo"],
+    "category": "Group 2"
+  },
+  {
+    "id": 21,
+    "english": "time",
+    "character": "时",
+    "reading": ["shí", "shi2", "shi"],
+    "category": "Group 3"
+  },
+  {
+    "id": 22,
+    "english": "go out",
+    "character": "出",
+    "reading": ["chū", "chu1", "chu"],
+    "category": "Group 3"
+  },
+  {
+    "id": 23,
+    "english": "can",
+    "character": "会",
+    "reading": ["huì", "hui4", "hui"],
+    "category": "Group 3"
+  },
+  {
+    "id": 24,
+    "english": "you",
+    "character": "你",
+    "reading": ["nǐ", "ni3", "ni"],
+    "category": "Group 3"
+  },
+  {
+    "id": 25,
+    "english": "correct",
+    "character": "对",
+    "reading": ["duì", "dui4", "dui"],
+    "category": "Group 3"
+  },
+  {
+    "id": 26,
+    "english": "life",
+    "character": "生",
+    "reading": ["shēng", "sheng1", "sheng"],
+    "category": "Group 3"
+  },
+  {
+    "id": 27,
+    "english": "able",
+    "character": "能",
+    "reading": ["néng", "neng2", "neng"],
+    "category": "Group 3"
+  },
+  {
+    "id": 28,
+    "english": "child",
+    "character": "子",
+    "reading": ["zi", "zi4", "zi"],
+    "category": "Group 3"
+  },
+  {
+    "id": 29,
+    "english": "that",
+    "character": "那",
+    "reading": ["nà", "na4", "na"],
+    "category": "Group 3"
+  },
+  {
+    "id": 30,
+    "english": "below",
+    "character": "下",
+    "reading": ["xià", "xia4", "xia"],
+    "category": "Group 3"
+  },
+  {
+    "id": 31,
+    "english": "year",
+    "character": "年",
+    "reading": ["nián", "nian2", "nian"],
+    "category": "Group 4"
+  },
+  {
+    "id": 32,
+    "english": "behind",
+    "character": "后",
+    "reading": ["hòu", "hou4", "hou"],
+    "category": "Group 4"
+  },
+  {
+    "id": 33,
+    "english": "do",
+    "character": "作",
+    "reading": ["zuò", "zuo4", "zuo"],
+    "category": "Group 4"
+  },
+  {
+    "id": 34,
+    "english": "inside",
+    "character": "里",
+    "reading": ["lǐ", "li3", "li"],
+    "category": "Group 4"
+  },
+  {
+    "id": 35,
+    "english": "home",
+    "character": "家",
+    "reading": ["jiā", "jia1", "jia"],
+    "category": "Group 4"
+  },
+  {
+    "id": 36,
+    "english": "many",
+    "character": "多",
+    "reading": ["duō", "duo1", "duo"],
+    "category": "Group 4"
+  },
+  {
+    "id": 37,
+    "english": "interrogative particle",
+    "character": "么",
+    "reading": ["me", "me5", "me"],
+    "category": "Group 4"
+  },
+  {
+    "id": 38,
+    "english": "go",
+    "character": "去",
+    "reading": ["qù", "qu4", "qu"],
+    "category": "Group 4"
+  },
+  {
+    "id": 39,
+    "english": "learning",
+    "character": "学",
+    "reading": ["xué", "xue2", "xue"],
+    "category": "Group 4"
+  },
+  {
+    "id": 40,
+    "english": "all",
+    "character": "都",
+    "reading": ["dōu", "dou1", "dou"],
+    "category": "Group 4"
+  },
+  {
+    "id": 41,
+    "english": "same",
+    "character": "同",
+    "reading": ["tóng", "tong2", "tong"],
+    "category": "Group 5"
+  },
+  {
+    "id": 42,
+    "english": "now",
+    "character": "现",
+    "reading": ["xiàn", "xian4", "xian"],
+    "category": "Group 5"
+  },
+  {
+    "id": 43,
+    "english": "have not",
+    "character": "没",
+    "reading": ["méi", "mei2", "mei"],
+    "category": "Group 5"
+  },
+  {
+    "id": 44,
+    "english": "side",
+    "character": "面",
+    "reading": ["miàn", "mian4", "mian"],
+    "category": "Group 5"
+  },
+  {
+    "id": 45,
+    "english": "rise",
+    "character": "起",
+    "reading": ["qǐ", "qi3", "qi"],
+    "category": "Group 5"
+  },
+  {
+    "id": 46,
+    "english": "see",
+    "character": "看",
+    "reading": ["kàn", "kan4", "kan"],
+    "category": "Group 5"
+  },
+  {
+    "id": 47,
+    "english": "sky",
+    "character": "天",
+    "reading": ["tiān", "tian1", "tian"],
+    "category": "Group 5"
+  },
+  {
+    "id": 48,
+    "english": "divide",
+    "character": "分",
+    "reading": ["fēn", "fen1", "fen"],
+    "category": "Group 5"
+  },
+  {
+    "id": 49,
+    "english": "good",
+    "character": "好",
+    "reading": ["hǎo", "hao3", "hao"],
+    "category": "Group 5"
+  },
+  {
+    "id": 50,
+    "english": "small",
+    "character": "小",
+    "reading": ["xiǎo", "xiao3", "xiao"],
+    "category": "Group 5"
+  },
+  {
+    "id": 51,
+    "english": "some",
+    "character": "些",
+    "reading": ["xiē", "xie1", "xie"],
+    "category": "Group 6"
+  },
+  {
+    "id": 52,
+    "english": "shape",
+    "character": "样",
+    "reading": ["yàng", "yang4", "yang"],
+    "category": "Group 6"
+  },
+  {
+    "id": 53,
+    "english": "she",
+    "character": "她",
+    "reading": ["tā", "ta1", "ta"],
+    "category": "Group 6"
+  },
+  {
+    "id": 54,
+    "english": "origin",
+    "character": "本",
+    "reading": ["běn", "ben3", "ben"],
+    "category": "Group 6"
+  },
+  {
+    "id": 55,
+    "english": "front",
+    "character": "前",
+    "reading": ["qián", "qian2", "qian"],
+    "category": "Group 6"
+  },
+  {
+    "id": 56,
+    "english": "open",
+    "character": "开",
+    "reading": ["kāi", "kai1", "kai"],
+    "category": "Group 6"
+  },
+  {
+    "id": 57,
+    "english": "think",
+    "character": "想",
+    "reading": ["xiǎng", "xiang3", "xiang"],
+    "category": "Group 6"
+  },
+  {
+    "id": 58,
+    "english": "machine",
+    "character": "机",
+    "reading": ["jī", "ji1", "ji"],
+    "category": "Group 6"
+  },
+  {
+    "id": 59,
+    "english": "ten",
+    "character": "十",
+    "reading": ["shí", "shi2", "shi"],
+    "category": "Group 6"
+  },
+  {
+    "id": 60,
+    "english": "work",
+    "character": "工",
+    "reading": ["gōng", "gong1", "gong"],
+    "category": "Group 6"
+  },
+  {
+    "id": 61,
+    "english": "bright",
+    "character": "明",
+    "reading": ["míng", "ming2", "ming"],
+    "category": "Group 7"
+  },
+  {
+    "id": 62,
+    "english": "three",
+    "character": "三",
+    "reading": ["sān", "san1", "san"],
+    "category": "Group 7"
+  },
+  {
+    "id": 63,
+    "english": "close",
+    "character": "关",
+    "reading": ["guān", "guan1", "guan"],
+    "category": "Group 7"
+  },
+  {
+    "id": 64,
+    "english": "o'clock",
+    "character": "点",
+    "reading": ["diǎn", "dian3", "dian"],
+    "category": "Group 7"
+  },
+  {
+    "id": 65,
+    "english": "high",
+    "character": "高",
+    "reading": ["gāo", "gao1", "gao"],
+    "category": "Group 7"
+  },
+  {
+    "id": 66,
+    "english": "very",
+    "character": "很",
+    "reading": ["hěn", "hen3", "hen"],
+    "category": "Group 7"
+  },
+  {
+    "id": 67,
+    "english": "see",
+    "character": "见",
+    "reading": ["jiàn", "jian4", "jian"],
+    "category": "Group 7"
+  },
+  {
+    "id": 68,
+    "english": "what",
+    "character": "什",
+    "reading": ["shén", "shen2", "shen"],
+    "category": "Group 7"
+  },
+  {
+    "id": 69,
+    "english": "two",
+    "character": "二",
+    "reading": ["èr", "er4", "er"],
+    "category": "Group 7"
+  },
+  {
+    "id": 70,
+    "english": "fruit",
+    "character": "果",
+    "reading": ["guǒ", "guo3", "guo"],
+    "category": "Group 7"
+  },
+  {
+    "id": 71,
+    "english": "west",
+    "character": "西",
+    "reading": ["xī", "xi1", "xi"],
+    "category": "Group 8"
+  },
+  {
+    "id": 72,
+    "english": "moon",
+    "character": "月",
+    "reading": ["yuè", "yue4", "yue"],
+    "category": "Group 8"
+  },
+  {
+    "id": 73,
+    "english": "talk",
+    "character": "话",
+    "reading": ["huà", "hua4", "hua"],
+    "category": "Group 8"
+  },
+  {
+    "id": 74,
+    "english": "return",
+    "character": "回",
+    "reading": ["huí", "hui2", "hui"],
+    "category": "Group 8"
+  },
+  {
+    "id": 75,
+    "english": "old",
+    "character": "老",
+    "reading": ["lǎo", "lao3", "lao"],
+    "category": "Group 8"
+  },
+  {
+    "id": 76,
+    "english": "first",
+    "character": "先",
+    "reading": ["xiān", "xian1", "xian"],
+    "category": "Group 8"
+  },
+  {
+    "id": 77,
+    "english": "son",
+    "character": "儿",
+    "reading": ["ér", "er2", "er"],
+    "category": "Group 8"
+  },
+  {
+    "id": 78,
+    "english": "east",
+    "character": "东",
+    "reading": ["dōng", "dong1", "dong"],
+    "category": "Group 8"
+  },
+  {
+    "id": 79,
+    "english": "water",
+    "character": "水",
+    "reading": ["shuǐ", "shui3", "shui"],
+    "category": "Group 8"
+  },
+  {
+    "id": 80,
+    "english": "name",
+    "character": "名",
+    "reading": ["míng", "ming2", "ming"],
+    "category": "Group 8"
+  },
+  {
+    "id": 81,
+    "english": "small table",
+    "character": "几",
+    "reading": ["jǐ", "ji3", "ji"],
+    "category": "Group 9"
+  },
+  {
+    "id": 82,
+    "english": "know",
+    "character": "认",
+    "reading": ["rèn", "ren4", "ren"],
+    "category": "Group 9"
+  },
+  {
+    "id": 83,
+    "english": "link",
+    "character": "系",
+    "reading": ["xì", "xi4", "xi"],
+    "category": "Group 9"
+  },
+  {
+    "id": 84,
+    "english": "steam",
+    "character": "气",
+    "reading": ["qì", "qi4", "qi"],
+    "category": "Group 9"
+  },
+  {
+    "id": 85,
+    "english": "hit",
+    "character": "打",
+    "reading": ["dǎ", "da3", "da"],
+    "category": "Group 9"
+  },
+  {
+    "id": 86,
+    "english": "woman",
+    "character": "女",
+    "reading": ["nǚ", "nv3", "nv"],
+    "category": "Group 9"
+  },
+  {
+    "id": 87,
+    "english": "four",
+    "character": "四",
+    "reading": ["sì", "si4", "si"],
+    "category": "Group 9"
+  },
+  {
+    "id": 88,
+    "english": "electricity",
+    "character": "电",
+    "reading": ["diàn", "dian4", "dian"],
+    "category": "Group 9"
+  },
+  {
+    "id": 89,
+    "english": "few",
+    "character": "少",
+    "reading": ["shǎo", "shao3", "shao"],
+    "category": "Group 9"
+  },
+  {
+    "id": 90,
+    "english": "very",
+    "character": "太",
+    "reading": ["tài", "tai4", "tai"],
+    "category": "Group 9"
+  },
+  {
+    "id": 91,
+    "english": "again",
+    "character": "再",
+    "reading": ["zài", "zai4", "zai"],
+    "category": "Group 10"
+  },
+  {
+    "id": 92,
+    "english": "make",
+    "character": "做",
+    "reading": ["zuò", "zuo4", "zuo"],
+    "category": "Group 10"
+  },
+  {
+    "id": 93,
+    "english": "time",
+    "character": "期",
+    "reading": ["qī", "qi1", "qi"],
+    "category": "Group 10"
+  },
+  {
+    "id": 94,
+    "english": "five",
+    "character": "五",
+    "reading": ["wǔ", "wu3", "wu"],
+    "category": "Group 10"
+  },
+  {
+    "id": 95,
+    "english": "book",
+    "character": "书",
+    "reading": ["shū", "shu1", "shu"],
+    "category": "Group 10"
+  },
+  {
+    "id": 96,
+    "english": "hear",
+    "character": "听",
+    "reading": ["tīng", "ting1", "ting"],
+    "category": "Group 10"
+  },
+  {
+    "id": 97,
+    "english": "live",
+    "character": "住",
+    "reading": ["zhù", "zhu4", "zhu"],
+    "category": "Group 10"
+  },
+  {
+    "id": 98,
+    "english": "north",
+    "character": "北",
+    "reading": ["běi", "bei3", "bei"],
+    "category": "Group 10"
+  },
+  {
+    "id": 99,
+    "english": "wake",
+    "character": "觉",
+    "reading": ["jué", "jue2", "jue"],
+    "category": "Group 10"
+  },
+  {
+    "id": 100,
+    "english": "teacher",
+    "character": "师",
+    "reading": ["shī", "shi1", "shi"],
+    "category": "Group 10"
+  },
+  {
+    "id": 101,
+    "english": "now",
+    "character": "今",
+    "reading": ["jīn", "jin4", "jin"],
+    "category": "Group 11"
+  },
+  {
+    "id": 102,
+    "english": "institution",
+    "character": "院",
+    "reading": ["yuàn", "yuan2", "yuan"],
+    "category": "Group 11"
+  },
+  {
+    "id": 103,
+    "english": "know",
+    "character": "识",
+    "reading": ["shí", "shi2", "shi"],
+    "category": "Group 11"
+  },
+  {
+    "id": 104,
+    "english": "wait",
+    "character": "候",
+    "reading": ["hòu", "hou4", "hou"],
+    "category": "Group 11"
+  },
+  {
+    "id": 105,
+    "english": "fly",
+    "character": "飞",
+    "reading": ["fēi", "fei1", "fei"],
+    "category": "Group 11"
+  },
+  {
+    "id": 106,
+    "english": "vehicle",
+    "character": "车",
+    "reading": ["chē", "che1", "che"],
+    "category": "Group 11"
+  },
+  {
+    "id": 107,
+    "english": "clothes",
+    "character": "服",
+    "reading": ["fú", "fu2", "fu"],
+    "category": "Group 11"
+  },
+  {
+    "id": 108,
+    "english": "how",
+    "character": "怎",
+    "reading": ["zěn", "zen3", "zen"],
+    "category": "Group 11"
+  },
+  {
+    "id": 109,
+    "english": "question particle",
+    "character": "呢",
+    "reading": ["ne", "ne5", "ne"],
+    "category": "Group 11"
+  },
+  {
+    "id": 110,
+    "english": "call",
+    "character": "叫",
+    "reading": ["jiào", "jiao4", "jiao"],
+    "category": "Group 11"
+  },
+  {
+    "id": 111,
+    "english": "picture",
+    "character": "影",
+    "reading": ["yǐng", "ying3", "ying"],
+    "category": "Group 12"
+  },
+  {
+    "id": 112,
+    "english": "character",
+    "character": "字",
+    "reading": ["zì", "zi4", "zi"],
+    "category": "Group 12"
+  },
+  {
+    "id": 113,
+    "english": "love",
+    "character": "爱",
+    "reading": ["ài", "ai4", "ai"],
+    "category": "Group 12"
+  },
+  {
+    "id": 114,
+    "english": "commerce",
+    "character": "商",
+    "reading": ["shāng", "shang1", "shang"],
+    "category": "Group 12"
+  },
+  {
+    "id": 115,
+    "english": "ask",
+    "character": "请",
+    "reading": ["qǐng", "qing3", "qing"],
+    "category": "Group 12"
+  },
+  {
+    "id": 116,
+    "english": "look at",
+    "character": "视",
+    "reading": ["shì", "shi4", "shi"],
+    "category": "Group 12"
+  },
+  {
+    "id": 117,
+    "english": "nine",
+    "character": "九",
+    "reading": ["jiǔ", "jiu3", "jiu"],
+    "category": "Group 12"
+  },
+  {
+    "id": 118,
+    "english": "write",
+    "character": "写",
+    "reading": ["xiě", "xie3", "xie"],
+    "category": "Group 12"
+  },
+  {
+    "id": 119,
+    "english": "eight",
+    "character": "八",
+    "reading": ["bā", "ba1", "ba"],
+    "category": "Group 12"
+  },
+  {
+    "id": 120,
+    "english": "question particle",
+    "character": "吗",
+    "reading": ["ma", "ma5", "ma"],
+    "category": "Group 12"
+  },
+  {
+    "id": 121,
+    "english": "eat",
+    "character": "吃",
+    "reading": ["chī", "chi1", "chi"],
+    "category": "Group 13"
+  },
+  {
+    "id": 122,
+    "english": "six",
+    "character": "六",
+    "reading": ["liù", "liu4", "liu"],
+    "category": "Group 13"
+  },
+  {
+    "id": 123,
+    "english": "cure",
+    "character": "医",
+    "reading": ["yī", "yi1", "yi"],
+    "category": "Group 13"
+  },
+  {
+    "id": 124,
+    "english": "number",
+    "character": "号",
+    "reading": ["hào", "hao4", "hao"],
+    "category": "Group 13"
+  },
+  {
+    "id": 125,
+    "english": "language",
+    "character": "语",
+    "reading": ["yǔ", "yu3", "yu"],
+    "category": "Group 13"
+  },
+  {
+    "id": 126,
+    "english": "seven",
+    "character": "七",
+    "reading": ["qī", "qi1", "qi"],
+    "category": "Group 13"
+  },
+  {
+    "id": 127,
+    "english": "prosper",
+    "character": "兴",
+    "reading": ["xìng", "xing4", "xing"],
+    "category": "Group 13"
+  },
+  {
+    "id": 128,
+    "english": "star",
+    "character": "星",
+    "reading": ["xīng", "xing1", "xing"],
+    "category": "Group 13"
+  },
+  {
+    "id": 129,
+    "english": "capital",
+    "character": "京",
+    "reading": ["jīng", "jing1", "jing"],
+    "category": "Group 13"
+  },
+  {
+    "id": 130,
+    "english": "rice",
+    "character": "米",
+    "reading": ["mǐ", "mi3", "mi"],
+    "category": "Group 13"
+  },
+  {
+    "id": 131,
+    "english": "guest",
+    "character": "客",
+    "reading": ["kè", "ke4", "ke"],
+    "category": "Group 14"
+  },
+  {
+    "id": 132,
+    "english": "friend",
+    "character": "友",
+    "reading": ["yǒu", "you3", "you"],
+    "category": "Group 14"
+  },
+  {
+    "id": 133,
+    "english": "money",
+    "character": "钱",
+    "reading": ["qián", "qian2", "qian"],
+    "category": "Group 14"
+  },
+  {
+    "id": 134,
+    "english": "hot",
+    "character": "热",
+    "reading": ["rè", "re4", "re"],
+    "category": "Group 14"
+  },
+  {
+    "id": 135,
+    "english": "sit",
+    "character": "坐",
+    "reading": ["zuò", "zuo4", "zuo"],
+    "category": "Group 14"
+  },
+  {
+    "id": 136,
+    "english": "school",
+    "character": "校",
+    "reading": ["xiào", "xiao4", "xiao"],
+    "category": "Group 14"
+  },
+  {
+    "id": 137,
+    "english": "brain",
+    "character": "脑",
+    "reading": ["nǎo", "nao3", "nao"],
+    "category": "Group 14"
+  },
+  {
+    "id": 138,
+    "english": "who",
+    "character": "谁",
+    "reading": ["shuí", "shui2", "shui"],
+    "category": "Group 14"
+  },
+  {
+    "id": 139,
+    "english": "which",
+    "character": "哪",
+    "reading": ["nǎ", "na3", "na"],
+    "category": "Group 14"
+  },
+  {
+    "id": 140,
+    "english": "like",
+    "character": "喜",
+    "reading": ["xǐ", "xi3", "xi"],
+    "category": "Group 14"
+  },
+  {
+    "id": 141,
+    "english": "practice",
+    "character": "习",
+    "reading": ["xí", "xi2", "xi"],
+    "category": "Group 15"
+  },
+  {
+    "id": 142,
+    "english": "happy",
+    "character": "欢",
+    "reading": ["huān", "huan1", "huan"],
+    "category": "Group 15"
+  },
+  {
+    "id": 143,
+    "english": "cold",
+    "character": "冷",
+    "reading": ["lěng", "leng3", "leng"],
+    "category": "Group 15"
+  },
+  {
+    "id": 144,
+    "english": "han ethnic group",
+    "character": "汉",
+    "reading": ["hàn", "han2", "han"],
+    "category": "Group 15"
+  },
+  {
+    "id": 145,
+    "english": "clothes",
+    "character": "衣",
+    "reading": ["yī", "yi1", "yi"],
+    "category": "Group 15"
+  },
+  {
+    "id": 146,
+    "english": "mother",
+    "character": "妈",
+    "reading": ["mā", "ma1", "ma"],
+    "category": "Group 15"
+  },
+  {
+    "id": 147,
+    "english": "read",
+    "character": "读",
+    "reading": ["dú", "du2", "du"],
+    "category": "Group 15"
+  },
+  {
+    "id": 148,
+    "english": "buy",
+    "character": "买",
+    "reading": ["mǎi", "mai3", "mai"],
+    "category": "Group 15"
+  },
+  {
+    "id": 149,
+    "english": "age",
+    "character": "岁",
+    "reading": ["suì", "sui4", "sui"],
+    "category": "Group 15"
+  },
+  {
+    "id": 150,
+    "english": "money",
+    "character": "块",
+    "reading": ["kuài", "kuai4", "kuai"],
+    "category": "Group 15"
+  },
+  {
+    "id": 151,
+    "english": "older sister",
+    "character": "姐",
+    "reading": ["jiě", "jie3", "jie"],
+    "category": "Group 16"
+  },
+  {
+    "id": 152,
+    "english": "bright",
+    "character": "亮",
+    "reading": ["liàng", "liang4", "liang"],
+    "category": "Group 16"
+  },
+  {
+    "id": 153,
+    "english": "friend",
+    "character": "朋",
+    "reading": ["péng", "peng4", "peng"],
+    "category": "Group 16"
+  },
+  {
+    "id": 154,
+    "english": "thank",
+    "character": "谢",
+    "reading": ["xiè", "xie4", "xie"],
+    "category": "Group 16"
+  },
+  {
+    "id": 155,
+    "english": "clock",
+    "character": "钟",
+    "reading": ["zhōng", "zhong1", "zhong"],
+    "category": "Group 16"
+  },
+  {
+    "id": 156,
+    "english": "rain",
+    "character": "雨",
+    "reading": ["yǔ", "yu3", "yu"],
+    "category": "Group 16"
+  },
+  {
+    "id": 157,
+    "english": "meal",
+    "character": "饭",
+    "reading": ["fàn", "fan4", "fan"],
+    "category": "Group 16"
+  },
+  {
+    "id": 158,
+    "english": "sleep",
+    "character": "睡",
+    "reading": ["shuì", "shui4", "shui"],
+    "category": "Group 16"
+  },
+  {
+    "id": 159,
+    "english": "drink",
+    "character": "喝",
+    "reading": ["hē", "he1", "he"],
+    "category": "Group 16"
+  },
+  {
+    "id": 160,
+    "english": "noon",
+    "character": "午",
+    "reading": ["wǔ", "wu3", "wu"],
+    "category": "Group 16"
+  },
+  {
+    "id": 161,
+    "english": "shop",
+    "character": "店",
+    "reading": ["diàn", "dian4", "dian"],
+    "category": "Group 17"
+  },
+  {
+    "id": 162,
+    "english": "father",
+    "character": "爸",
+    "reading": ["bà", "ba1", "ba"],
+    "category": "Group 17"
+  },
+  {
+    "id": 163,
+    "english": "table",
+    "character": "桌",
+    "reading": ["zhuō", "zhuo1", "zhuo"],
+    "category": "Group 17"
+  },
+  {
+    "id": 164,
+    "english": "dish",
+    "character": "菜",
+    "reading": ["cài", "cai4", "cai"],
+    "category": "Group 17"
+  },
+  {
+    "id": 165,
+    "english": "tea",
+    "character": "茶",
+    "reading": ["chá", "cha2", "cha"],
+    "category": "Group 17"
+  },
+  {
+    "id": 166,
+    "english": "dog",
+    "character": "狗",
+    "reading": ["gǒu", "gou3", "gou"],
+    "category": "Group 17"
+  },
+  {
+    "id": 167,
+    "english": "cup",
+    "character": "杯",
+    "reading": ["bēi", "bei1", "bei"],
+    "category": "Group 17"
+  },
+  {
+    "id": 168,
+    "english": "rent",
+    "character": "租",
+    "reading": ["zū", "zu1", "zu"],
+    "category": "Group 17"
+  },
+  {
+    "id": 169,
+    "english": "past",
+    "character": "昨",
+    "reading": ["zuó", "zuo2", "zuo"],
+    "category": "Group 17"
+  },
+  {
+    "id": 170,
+    "english": "float",
+    "character": "漂",
+    "reading": ["piào", "piao4", "piao"],
+    "category": "Group 17"
+  },
+  {
+    "id": 171,
+    "english": "chair",
+    "character": "椅",
+    "reading": ["yǐ", "yi3", "yi"],
+    "category": "Group 18"
+  },
+  {
+    "id": 172,
+    "english": "cat",
+    "character": "猫",
+    "reading": ["māo", "mao1", "mao"],
+    "category": "Group 18"
+  },
+  {
+    "id": 173,
+    "english": "call",
+    "character": "喂",
+    "reading": ["wèi", "wei4", "wei"],
+    "category": "Group 18"
+  },
+  {
+    "id": 174,
+    "english": "apple",
+    "character": "苹",
+    "reading": ["píng", "ping2", "ping"],
+    "category": "Group 18"
+  }
+]
