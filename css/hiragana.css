@@ -305,3 +305,16 @@ a:hover {
 .hidden {
   display: none;
 }
+
+.kana {
+  max-width: 100%; /* or a specific max-width */
+  word-wrap: break-word; /* Ensures long strings wrap */
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers items on the main axis */
+  align-items: center; /* Aligns items on the cross axis */
+  padding: 10px;
+}
