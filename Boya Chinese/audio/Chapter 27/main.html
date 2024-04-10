@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boya Chinese Chapter 27 Vocabulary</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Boya Chinese Chapter 27</h1>
+    </header>
+
+    <div id="vocabList"></div>
+
+    <script>
+      // Mimicking a server response with a static JSON array
+      const vocabFiles = [
+        { word: "计划", file: "1. 计划plan.m4a" },
+        { word: "待", file: "2. 待stay.m4a" },
+        { word: "地方", file: "3. 地方place.m4a" },
+        { word: "风景", file: "4. 风景senery.m4a" },
+        { word: "美", file: "5. 美beautiful.m4a" },
+        { word: "极了", file: "6. 极了super.m4a" },
+        { word: "复习", file: "7. 复习review.m4a" },
+        { word: "功课", file: "8. 功课homework.m4a" },
+        { word: "毕业", file: "9. 毕业graduate.m4a" },
+        { word: "抓紧", file: "10. 抓紧hurry up.m4a" },
+        { word: "方面", file: "11. 方面aspect.m4a" },
+        { word: "古代", file: "12. 古代ancient times.m4a" },
+        { word: "历史", file: "13. 历史.m4a" },
+        { word: "感兴趣", file: "14. 感兴趣.m4a" },
+        { word: "教授", file: "15. 教授.m4a" },
+        { word: "一定", file: "16. 一定.m4a" },
+        { word: "考上- 考", file: "17. 考上- 考.m4a" },
+        { word: "春节", file: "18. 春节.m4a" },
+        { word: "让", file: "19. 让.m4a" },
+        { word: "问题", file: "20. 问题.m4a" },
+        { word: "应该", file: "21. 应该.m4a" },
+        { word: "想念", file: "22. 想念.m4a" },
+        { word: "趟", file: "23. 趟.m4a" },
+      ];
+
+      const vocabList = document.getElementById("vocabList");
+
+      vocabFiles.forEach((vocab) => {
+        const vocabItem = document.createElement("div");
+        vocabItem.className = "vocab-item";
+
+        const wordSpan = document.createElement("span");
+        wordSpan.textContent = `${vocab.word}`;
+
+        const audio = document.createElement("audio");
+        audio.controls = true;
+        const source = document.createElement("source");
+        source.src = vocab.file;
+        source.type = "audio/mp4";
+        audio.appendChild(source);
+
+        vocabItem.appendChild(wordSpan);
+        vocabItem.appendChild(audio);
+
+        vocabList.appendChild(vocabItem);
+      });
+    </script>
+  </body>
+</html>
