@@ -48,6 +48,23 @@ h1 {
   color: #0077aa;
 }
 
+.start, .vowels, .k, .s, .t, .n, .h, .m, .y, .r, .w {
+  /* Removed 'position: fixed;' and position properties like 'top' and 'right' */
+  display: inline-block;
+  width: 100px; /* Adjusted width for demonstration */
+  height: 100px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin: 5px; /* Example margin for spacing between buttons */
+}
+/* 
+
 .vowels {
   display: inline-block;
   width: 100px;
@@ -266,7 +283,7 @@ h1 {
 .w.clicked {
   background-color: white;
   color: #0077aa;
-}
+} */
 
 .wrong {
   font-size: 30px;
