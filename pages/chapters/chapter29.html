@@ -14,35 +14,41 @@
     <div id="vocabList"></div>
 
     <script>
-      // Mimicking a server response with a static JSON array
       const vocabFiles = [
         { word: "1-10", file: "../audio/Chapter 29/1-10.m4a" },
         { word: "11-20", file: "../audio/Chapter 29/11-20.m4a" },
         { word: "21", file: "../audio/Chapter 29/21.m4a" },
       ];
-
+    
       const vocabList = document.getElementById("vocabList");
-
+    
       vocabFiles.forEach((vocab) => {
         const vocabItem = document.createElement("div");
         vocabItem.className = "vocab-item";
-
+        vocabItem.setAttribute('role', 'button');  // Accessibility enhancement
+        vocabItem.setAttribute('tabindex', '0');   // Make it focusable
+    
         const wordSpan = document.createElement("span");
-        wordSpan.textContent = `${vocab.word}`;
-
+        wordSpan.textContent = vocab.word;
+    
         const audio = document.createElement("audio");
-        audio.controls = true;
+        audio.controls = false;  // Hide controls by default
         const source = document.createElement("source");
         source.src = vocab.file;
         source.type = "audio/mp4";
         audio.appendChild(source);
-
+    
         vocabItem.appendChild(wordSpan);
         vocabItem.appendChild(audio);
-
+    
+        // Play audio when the vocab item is clicked
+        vocabItem.addEventListener('click', () => {
+          audio.play();
+        });
+    
         vocabList.appendChild(vocabItem);
       });
-    </script>
+    </script>    
     <script src="../js/main.js"></script>
   </body>
 </html>
