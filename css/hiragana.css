@@ -324,7 +324,7 @@ li {
   margin-bottom: 10px;
 }
 
-a {
+/* a {
   display: block;
   padding: 10px;
   border-radius: 5px;
@@ -339,7 +339,7 @@ a {
 a:hover {
   background-color: #cccccc;
   color: #ffffff;
-}
+} */
 
 .hidden {
   display: none;
