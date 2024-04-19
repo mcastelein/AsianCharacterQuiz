@@ -23,7 +23,7 @@ nav ul {
   gap: 20px;
 }
 
-nav ul li a {
+nav ul li a.button {
   color: #ffffff; /* White text for links */
   text-decoration: none;
   font-size: 18px;
@@ -31,9 +31,19 @@ nav ul li a {
   padding: 10px 15px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  display: inline-block; /* To ensure proper spacing and alignment */
 }
 
-nav ul li a:hover {
+nav ul {
+  flex-wrap: wrap;  /* Allows items to wrap onto the next line */
+}
+
+nav ul li a.button {
+  padding: 10px;  /* Adjust padding */
+  font-size: 16px;  /* Adjust font size */
+}
+
+nav ul li a.button:hover {
   background-color: #004495; /* Darker blue on hover */
 }
 
@@ -63,4 +73,44 @@ nav ul li a:hover {
 
 audio {
   width: 60px; /* Smaller audio controls for compactness */
+}
+
+a {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  /* position: fixed; */
+  position: flex;
+  top: 10px;
+  left: 10px;
+}
+
+a:hover {
+  background-color: #cccccc;
+  color: #ffffff;
+}
+
+#home-button {
+  position: fixed;  
+  top: 10px;        
+  left: 10px;      
+  width: 100px;     
+  height: 50px;   
+  border: 2px solid white;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 10px;
+  z-index: 1000; 
 }
