@@ -114,3 +114,8 @@ a:hover {
   border-radius: 10px;
   z-index: 1000; 
 }
+
+#home-button:hover {
+  background-color: #cccccc;
+  color: #ffffff;
+}
