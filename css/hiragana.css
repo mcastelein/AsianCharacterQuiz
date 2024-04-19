@@ -66,8 +66,8 @@ a:hover {
 }
 
 .start:hover {
-  background-color: white;
-  color: #0077aa;
+  background-color: #cccccc;
+  color: #ffffff;
 }
 
 .start, .vowels, .k, .s, .t, .n, .h, .m, .y, .r, .w {
@@ -86,225 +86,14 @@ a:hover {
   margin: 5px; /* Example margin for spacing between buttons */
 }
 
-
-/* .vowels {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 10px;
-  right: 120px;
-} */
-
-.vowels.clicked {
+.vowels.clicked, .k.clicked, .s.clicked, .t.clicked, .n.clicked, .h.clicked, .m.clicked, .y.clicked, .r.clicked, .w.clicked {
   background-color: white;
   color: #0077aa;
 }
 
-/* .k {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 120px;
-  right: 120px;
-} */
-
-.k.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .s {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 230px;
-  right: 120px;
-} */
-
-.s.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .t {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 340px;
-  right: 120px;
-} */
-
-.t.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .n {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 450px;
-  right: 120px;
-} */
-
-.n.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .h {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 560px;
-  right: 120px;
-} */
-
-.h.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .m {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 120px;
-  right: 10px;
-} */
-
-.m.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .y {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 230px;
-  right: 10px;
-} */
-
-.y.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .r {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 340px;
-  right: 10px;
-} */
-
-.r.clicked {
-  background-color: white;
-  color: #0077aa;
-}
-
-/* .w {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  border: 2px solid white;
-  background-color: #0077aa;
-  color: white;
-  text-align: center;
-  line-height: 100px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 10px;
-  position: fixed;
-  top: 450px;
-  right: 10px;
-} */
-
-.w.clicked {
-  background-color: white;
-  color: #0077aa;
+.vowels:hover, .k:hover, .s:hover, .t:hover, .n:hover, .h:hover, .m:hover, .y:hover, .r:hover, .w:hover {
+  background-color: #cccccc;
+  color: #ffffff;
 }
 
 .wrong {
@@ -324,7 +113,7 @@ li {
   margin-bottom: 10px;
 }
 
-/* a {
+ /* a {
   display: block;
   padding: 10px;
   border-radius: 5px;
@@ -334,12 +123,12 @@ li {
   font-size: 20px;
   text-align: center;
   transition: background-color 0.3s ease-in-out;
-}
+} */
 
-a:hover {
+/* a:hover {
   background-color: #cccccc;
   color: #ffffff;
-} */
+}  */
 
 .hidden {
   display: none;
